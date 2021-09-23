@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhy3 Studio", "Rhy3 Studio\Rhy3 Studio.csproj", "{7C851259-FCF7-4C14-8489-14EA6F53BC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C851259-FCF7-4C14-8489-14EA6F53BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C851259-FCF7-4C14-8489-14EA6F53BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C851259-FCF7-4C14-8489-14EA6F53BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C851259-FCF7-4C14-8489-14EA6F53BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1C8B5F-5414-45E2-9764-D159DD7D8DEA}
+	EndGlobalSection
+EndGlobal
